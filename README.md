@@ -52,12 +52,12 @@ Above is an example of logging into Client-1 as a normal user(mydomain\abcuser)
 <img src="https://i.imgur.com/AQ37KMD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of 4 folders read-acces, write-access, no-access, accounts 
+Above is an example of 4 folders read-access, write-access, no-access, accounts 
 </p>
 <br />
 
 <p>
-<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4dY1dq8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Above is an example of a read-access group with the domain permissions to read
@@ -65,7 +65,7 @@ Above is an example of a read-access group with the domain permissions to read
 <br />
 
 <p>
-<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iqEL1BR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Above is an example of a write-access group with the domain permissions to read\write
@@ -73,4 +73,10 @@ Above is an example of a write-access group with the domain permissions to read\
 <br />
 
 
-https://i.imgur.com/FUnbl39.png
+<p>
+<img src="https://i.imgur.com/cLjPaVX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of a no-access group domain admins permissions read\write
+</p>
+<br />
