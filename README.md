@@ -49,3 +49,28 @@ Above is an example of logging into Client-1 as a normal user(mydomain\abcuser)
 <br />
 
 <p>
+<img src="https://i.imgur.com/AQ37KMD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of 4 folders read-acces, write-access, no-access, accounts 
+</p>
+<br />
+
+<p>
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of a read-access group with the domain permissions to read
+</p>
+<br />
+
+<p>
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of a write-access group with the domain permissions to read\write
+</p>
+<br />
+
+
+https://i.imgur.com/FUnbl39.png
