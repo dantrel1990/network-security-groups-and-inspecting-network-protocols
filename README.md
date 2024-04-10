@@ -80,3 +80,27 @@ Above is an example of a write-access group with the domain permissions to read\
 Above is an example of a no-access group domain admins permissions read\write
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/gTTGlZa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of a read-access folder only with the permissions to read and nothing follows
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IFSns1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of a write-access folder with only the permissions to read\write
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2LnLhlo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of a no-access folder with no permissions granted to domain users only domain controllers
+</p>
+<br />
