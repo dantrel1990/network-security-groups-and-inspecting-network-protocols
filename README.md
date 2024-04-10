@@ -104,3 +104,11 @@ Above is an example of a write-access folder with only the permissions to read\w
 Above is an example of a no-access folder with no permissions granted to domain users only domain controllers
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/aVddc5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of an accounting group with the permission to read\write
+</p>
+<br />
