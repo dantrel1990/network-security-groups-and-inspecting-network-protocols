@@ -41,10 +41,18 @@ Above is an example of simple file shares with various permissions i have create
 <br />
 
 <p>
-<img src="https://i.imgur.com/lLrfhdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/lLrfhdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Above is an example of me trying to access a shared account that has denied me access because 
-  normal users do not have access only accounting.
+  normal users do not have access only members of the accounting security group have access because any member of the accountant's security group has written access.
 </p>
+
+<p>
+<img src="https://i.imgur.com/f3nZywp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+Above is an image detailing how I added an. doe to the ACCOUNTANTS security group so that the shared folders can now be accessed.
+</p>
+
 
